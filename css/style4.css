@@ -1,3 +1,18 @@
+#red{
+    z-index:4;
+    transform:rotateZ(-7deg);
+    border-top:40px solid rgb(200,50,50);
+}
+#yellow{
+    z-index:3;
+    transform:rotateZ(-90deg);
+    border-top:40px solid yellow;
+}
+#green{
+    z-index:2;
+    transform:rotateZ(-173deg);
+    border-top:40px solid rgb(10,250,10);
+}
 #blue{
     z-index:1;
     width:110px;
